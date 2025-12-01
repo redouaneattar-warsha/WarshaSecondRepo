@@ -1,0 +1,26 @@
+{
+  "name": "2ndrepo",
+  "version": "1.0.0",
+  "description": "This is my second repo just to understand how it works ",
+  "keywords": [
+    "Redouane"
+  ],
+  "homepage": "https://github.com/redouaneattar-warsha/WarshaSecondRepo#readme",
+  "bugs": {
+    "url": "https://github.com/redouaneattar-warsha/WarshaSecondRepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redouaneattar-warsha/WarshaSecondRepo.git"
+  },
+  "license": "ISC",
+  "author": "Redouane",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
